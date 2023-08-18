@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 386683391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 580580ba46064d6c28e3feed2126c307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/Parrot.jpg
+- Assets/Images/Cat.jpg
+- Assets/Images/Alien2.jpg
+- Assets/Images/Dog.jpg
+- Assets/Images/Alien1.jpg
+Dependencies: []
